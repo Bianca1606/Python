@@ -39,7 +39,7 @@ na lista, permitindo que elas saibam que ainda estão convidadas.
 • Utilize del para remover os dois últimos nomes de sua lista, de modo que você
 tenha uma lista vazia. Mostre sua lista para garantir que você realmente tem
 uma lista vazia no final de seu programa.
-
+--------------------------------------------------------------------------------
 
 names = ['convidado1', 'convidado2', 'convidado3']
 
